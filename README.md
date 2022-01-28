@@ -10,5 +10,3 @@ Ovaj projekt sadrži:
 - Tehničku dokumentaciju
 - Prezentaciju projekta
 - Izvorni kôd programske implementacije rada
-- Izvršni kôd programske implementacije rada
-- Video demonstraciju (gameplay video)
