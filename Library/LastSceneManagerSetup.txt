@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Low Poly Chemical Lab/Scenes/Low Poly Chemical Lab Demo.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
