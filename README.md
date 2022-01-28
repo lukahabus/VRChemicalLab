@@ -1,4 +1,4 @@
-# 2021_2022 - Projekt - Habuš Luka
+# 2021_2022 - Projekt
 
 VR kemijski laboratorij
 
